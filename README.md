@@ -24,11 +24,17 @@ At the moment it is mainly focused on getting started with the python client.
 
 [Official guide](https://www.ethereum.org/)
 
+[Solidity guide](https://ethereum.github.io/solidity/docs/home/)
+
+[DApps for beginngers (might be deprecated)](https://dappsforbeginners.wordpress.com/tutorials/your-first-dapp/)
+
 # Web pages
 
 [Reddit](https://reddit.com/r/ethereum)
 
 [Ethereum Forum](https://forum.ethereum.org/)
+
+[Network status](https://stats.ethdev.com/)
 
 # Gitter channels
 
