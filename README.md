@@ -2,6 +2,8 @@ This is a list of links to helpful resources when starting out with Ethereum.
 
 At the moment it is mainly focused on getting started with the python client.
 
+*Please feel free to make PRs if any great resources are missing.*
+
 # Papers
 
 [White Paper](https://github.com/ethereum/wiki/wiki/White-Paper)
