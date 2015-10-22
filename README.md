@@ -2,7 +2,7 @@ This is a list of links to helpful resources when starting out with Ethereum.
 
 At the moment it is mainly focused on getting started with the python client.
 
-*Please feel free to make PRs if any great resources are missing.*
+**Please feel free to make PRs if any great resources are missing.**
 
 # Papers
 
@@ -37,6 +37,8 @@ At the moment it is mainly focused on getting started with the python client.
 [Ethereum Forum](https://forum.ethereum.org/)
 
 [Network status](https://stats.ethdev.com/)
+
+[Realtime solidity compiler](https://chriseth.github.io/browser-solidity/)
 
 # Gitter channels
 
