@@ -38,6 +38,8 @@ At the moment it is mainly focused on getting started with the python client.
 
 [Network status](https://stats.ethdev.com/)
 
+[Etherscan.io](http://etherscan.io/)
+
 [Realtime solidity compiler](https://chriseth.github.io/browser-solidity/)
 
 # Gitter channels
@@ -51,6 +53,10 @@ At the moment it is mainly focused on getting started with the python client.
 [pyethapp](https://gitter.im/ethereum/pyethapp)
 
 [raiden](https://gitter.im/heikoheiko/raiden)
+
+[go-ethereum](https://gitter.im/ethereum/go-ethereum)
+
+[cpp-ethereum](https://gitter.im/ethereum/cpp-ethereum)
 
 
 
