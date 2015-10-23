@@ -59,4 +59,6 @@ At the moment it is mainly focused on getting started with the python client.
 [cpp-ethereum](https://gitter.im/ethereum/cpp-ethereum)
 
 
+# Podcasts
 
+[The Ether Review](https://soundcloud.com/arthurfalls)
