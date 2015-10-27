@@ -15,6 +15,7 @@ At the moment it is mainly focused on getting started with the python client.
 [Frontier Guide](https://ethereum.gitbooks.io/frontier-guide/content/index.html)
 
 [Ethereum Tutorials and Tips by Hudson](https://souptacular.gitbooks.io/ethereum-tutorials-and-tips-by-hudson/content/index.html)
+
 # Clients
 
 [Python client](https://github.com/ethereum/pyethapp)
@@ -32,6 +33,8 @@ At the moment it is mainly focused on getting started with the python client.
 [DApps for beginngers (might be deprecated)](https://dappsforbeginners.wordpress.com/tutorials/your-first-dapp/)
 
 # Web pages
+
+[Ethereum Developer Documentation](https://docs.ethereum.org/)
 
 [Reddit](https://reddit.com/r/ethereum)
 
