@@ -30,7 +30,7 @@ At the moment it is mainly focused on getting started with the python client.
 
 [Solidity guide](https://ethereum.github.io/solidity/docs/home/)
 
-[DApps for beginngers (might be deprecated)](https://dappsforbeginners.wordpress.com/tutorials/your-first-dapp/)
+[A 101 noob intro to smart contracts](http://consensys.github.io/developers/articles/101-noob-intro/)
 
 # Web pages
 
